@@ -10,6 +10,7 @@ Android Studio o VS Code: Para un entorno de desarrollo adecuado.
 Dispositivo o Emulador: Un dispositivo físico con depuración USB habilitada o un emulador configurado.
 
 Pasos para Configurar y Ejecutar la Aplicación
+
 1-. Clonar el Repositorio
 
 Clona el repositorio en tu máquina local utilizando el siguiente comando:
